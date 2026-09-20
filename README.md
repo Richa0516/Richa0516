@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I’m Keita 👋
 
-<!--
-**Richa0516/Richa0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an undergraduate Computer Science student at Gifu University, Japan.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying Computer Science at Gifu University
+* 🧠 Working on medical image analysis using AI and deep learning
+* 💻 Interested in software development, AI, and machine learning
+* 🚀 Interested in hackathons and team development
+* 🌱 Currently expanding my development experience through research and projects
+
+Skills
+
+* Python
+* C
+* Kotlin
+* PyTorch
+* Git / GitHub
+* Docker
+* Unity
+
+Projects
+
+Umpire VR
+
+A VR application developed as a team project in a university course.
+
+Programming Practice
+
+Programming projects developed through university coursework.

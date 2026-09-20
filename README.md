@@ -20,12 +20,10 @@ Skills
 * Docker
 * Unity
 
-Projects
+## Projects
 
-Umpire VR
+### [Umpire VR](https://github.com/Richa0516/umpireVR)
+A VR umpire training application developed as a team project in a university course.
 
-A VR application developed as a team project in a university course.
-
-Programming Practice
-
-Programming projects developed through university coursework.
+### [prog2](https://github.com/Richa0516/prog2)
+A Kotlin programming project developed for a university course.

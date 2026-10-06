@@ -22,6 +22,11 @@ Skills
 
 ## Projects
 
+### [MoguMatch](https://github.com/Richa0516/mogumatch)
+A restaurant voting web app that helps groups choose where to eat through swipe-based voting. Inspired by Mogufinder from JPHACKS 2025 and developed with Codex to learn web application development.
+
+Built with React, TypeScript, Vinext, and Cloudflare D1, with restaurant search powered by the Hot Pepper Gourmet API.
+
 ### [Umpire VR](https://github.com/Richa0516/umpireVR)
 A VR umpire training application developed as a team project in a university course.
 
